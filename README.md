@@ -32,3 +32,10 @@ and what I would improve next.
 ## 🌍 Languages
 
 German (fluent) · English (fluent) · Igbo (native) · Nigerian Pidgin (native)
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20Nwanebu-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-nwanebu-8a9933194)
+[![Email](https://img.shields.io/badge/Email-chijiokevictor92%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:chijiokevictor92@gmail.com)
+
+📞 +41 78 311 88 28
